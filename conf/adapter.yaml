@@ -1,0 +1,29 @@
+#ElasticSearch node ip/port
+elasticNodes:
+  - ip: 172.16.3.30
+    port: 30200
+#ElasticSearch username/password
+#user: elastic
+#password: changeme
+
+#ElasticSearch index/type
+#index: prometheus
+#type: metric
+
+#Sniff enables or disables
+#sniff: false
+
+#HealthCheck enables or disables
+#healthcheck: false
+
+#Workers is the number of concurrent workers allowed to be executed
+#workers: 1
+
+#BulkSize specifies when to flush based on the size (in MB)
+#bulkSize: 1
+
+#Max size of query from ElasticSearch
+#querySize: 5000
+
+#The path of mapping file
+#mappingPath: mapping.json

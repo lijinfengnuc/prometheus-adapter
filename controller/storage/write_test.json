@@ -1,0 +1,88 @@
+[
+  {
+    "labels": [
+      {
+        "name": "__name__",
+        "value": "container_memory_swap"
+      },
+      {
+        "name": "beta_kubernetes_io_arch",
+        "value": "amd64"
+      },
+      {
+        "name": "beta_kubernetes_io_os",
+        "value": "linux"
+      },
+      {
+        "name": "container_name",
+        "value": "POD"
+      },
+      {
+        "name": "id",
+        "value": "/kubepods.slice/kubepods-burstable.slice/kubepods-burstable-pod3719ff26_8fad_11e8_9c88_ac7409c47cb5.slice/docker-24eaa7c69fe3ac5a666a94693893895bc0d9f26f3df59b3e0e2818075be61c51.scope"
+      },
+      {
+        "name": "image",
+        "value": "pause-amd64:3.0"
+      },
+      {
+        "name": "instance",
+        "value": "172-16-3-54"
+      },
+      {
+        "name":"is_container",
+        "value": "true"
+      },
+      {
+        "name":"job",
+        "value": "kubernetes_cAdvisor_171.16.3.30"
+      },
+      {
+        "name":"kubernetes_io_hostname",
+        "value": "172-16-3-54"
+      },
+      {
+        "name":"monitor_cluster",
+        "value": "171.16.3.30"
+      },
+      {
+        "name":"is_container",
+        "value": "true"
+      },
+      {
+        "name":"monitor_env",
+        "value": "kubernetes_cAdvisor_171.16.3.30:172-16-3-54"
+      },
+      {
+        "name":"monitor_host",
+        "value": "172.16.3.54"
+      },
+      {
+        "name":"monitor_type",
+        "value": "kubernetes"
+      },
+      {
+        "name":"mysql",
+        "value": "true"
+      },
+      {
+        "name":"name",
+        "value": "k8s_POD_calico-node-2bzmj_kube-system_3719ff26-8fad-11e8-9c88-ac7409c47cb5_1"
+      },
+      {
+        "name":"namespace",
+        "value": "kube-system"
+      },
+      {
+        "name":"pod_name",
+        "value": "calico-node-2bzmj"
+      }
+    ],
+    "samples": [
+      {
+        "value":0,
+        "timestamp":1528971625
+      }
+    ]
+  }
+]

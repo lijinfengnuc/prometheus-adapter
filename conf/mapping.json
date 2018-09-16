@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "timestamp": {
+      "type": "long"
+    },
+    "value": {
+      "type": "double"
+    }
+  }
+}
